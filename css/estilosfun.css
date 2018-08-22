@@ -1,0 +1,100 @@
+h2{
+
+}
+h1{
+  color: white;
+}
+.logan{
+  color: white;
+}
+
+.img_bar{
+  padding-bottom: 30px;
+  margin: 0.5vw;
+}
+.bodyclass{
+  margin: 2vw;
+  background-image: url(https://images5.alphacoders.com/454/454233.jpg);
+  background-repeat:repeat;
+}
+.contenido{
+  padding-right: 100px;
+  padding-left: 100px;
+
+}
+.fecha{
+  color: rgba(62, 171, 236, 0.9);
+
+}
+header{
+  background-color:rgba(0,0,255,0.3);
+}
+.navsid{
+  background-color: rgba(62, 95, 168, 0.9);
+
+}
+section{
+  background-color: rgba(62, 95, 168, 0.9);
+
+}
+.sidebar{
+  background-color:rgba(0,0,255,0.3);
+}
+.buscador{
+  padding-top: 30px;
+}
+.pictures1{
+  padding: 10px;
+}
+.pictures2{
+  padding: 10px;
+}
+
+
+.list-group {
+  margin-bottom: 1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 0;
+  background: #fefefe;
+  box-shadow: none;
+  overflow: hidden;
+  color: #0a0a0a;
+}
+
+.list-group > :last-child {
+  margin-bottom: 0;
+}
+
+.list-group-item {
+  padding: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.list-group-item > :last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.list-group-item.active {
+  color: #fefefe;
+  background-color: #1779ba;
+  border-color: 1px solid #1779ba;
+}
+
+.list-group-item:hover, .list-group-item:focus {
+  background-color: #e6e6e6;
+}
+
+.list-group-item:hover.active, .list-group-item:focus.active {
+  background-color: #1779ba;
+}
+
+.list-group-item.disabled, .list-group-item.disabled:hover, .list-group-item.disabled:focus, .list-group-item[disabled], .list-group-item[disabled]:hover, .list-group-item[disabled]:focus {
+  color: #8a8a8a;
+  cursor: not-allowed;
+  background-color: #fefefe;
+}
+.comentarios{
+    border: 2px solid black;
+    border-radius: 5px;
+}

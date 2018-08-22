@@ -1,1 +1,30 @@
-
+.bodyc{
+  margin: 2vw;
+  background: #0080ff;
+}
+.imgqueen{
+  margin: 1vw;
+}
+.redessociales{
+  width: 40px;
+  margin-top: 120px;
+  border-radius: 5px;
+}
+header{
+background: white;
+min-height: 180px;
+border: none;
+margin-bottom: 2vw;
+}
+section{
+  background: white;
+  margin-top: 2vw;
+  padding: 8px;
+}
+.soda{
+  width: 230px;
+  height: 280px;
+  border: none;
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
