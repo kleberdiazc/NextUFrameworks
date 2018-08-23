@@ -13,13 +13,13 @@ h1{
   margin: 0.5vw;
 }
 .bodyclass{
-  margin: 2vw;
+  margin: 3vw;
   background-image: url(https://images5.alphacoders.com/454/454233.jpg);
   background-repeat:repeat;
 }
 .contenido{
-  padding-right: 100px;
-  padding-left: 100px;
+  padding-right: 40px;
+  padding-left: 40px;
 
 }
 .fecha{
@@ -34,7 +34,7 @@ header{
 
 }
 section{
-  background-color: rgba(62, 95, 168, 0.9);
+
 
 }
 .sidebar{
@@ -58,7 +58,7 @@ section{
   background: #fefefe;
   box-shadow: none;
   overflow: hidden;
-  color: #0a0a0a;
+  color: rgba(62, 171, 236, 0.9);
 }
 
 .list-group > :last-child {
@@ -82,7 +82,7 @@ section{
 }
 
 .list-group-item:hover, .list-group-item:focus {
-  background-color: #e6e6e6;
+  background-color:rgba(0,0,255,0.3);
 }
 
 .list-group-item:hover.active, .list-group-item:focus.active {
@@ -94,7 +94,35 @@ section{
   cursor: not-allowed;
   background-color: #fefefe;
 }
-.comentarios{
+
+.comentario1{
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.comentario2{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sectwo{
+      margin-top: 20px;
+      margin-bottom: 10px;
+      background-color: rgba(62, 95, 168, 0.9);
+}
+.secone{
+
+  margin-bottom: 10px;
+  background-color: rgba(62, 95, 168, 0.9);
+}
+.img_conten{
+  padding: 10px;
+}
+.descripcion{
+  padding: 10px;
+}
+.comentar{
+  padding: 30px;
 }

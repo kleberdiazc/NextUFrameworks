@@ -1,0 +1,70 @@
+.imagen_logo{
+  padding: 10px;
+}
+.social{
+  margin: 10px;
+}
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.content {
+  margin-left: 75px;
+  font-size: 30px;
+}
+ a {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 10px;
+}
+li{
+  width: 40px;
+}
+.comentariotext{
+  padding: 20px;
+}
+body{
+  margin: 45px;
+  background-image: url(https://i.pinimg.com/originals/4e/55/07/4e5507218f1a9d904c9299598b0f596d.jpg);
+}
+.sendbutton{
+  margin-left: 20px;
+}
+.comentarios{
+  margin: 10px;
+}
+.barbutton{
+    list-style-type: none;
+    overflow: hidden;
+
+}
+.barbutton a{
+  margin: 10px;
+}
+
+.eslogan{
+  color: white;
+}
